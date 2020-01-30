@@ -1,3 +1,5 @@
 # IAD_2020
-Этот репозиторий содержит домашние задания по курсу "Современные методы машинного обучения". 
-* ДЗ №1: линейная регрессия с батч-оптимизацией, Mini-batch SGD, SGD with momentum, ADAM
+This repository contains jupyter notebooks for HSE IDA course: Deep Leatning.  
+* HW1: linear regression with batch-optimization, Mini-batch SGD, SGD with momentum, ADAM; 
+* HW2: numpy vs tensorflow comparison, tuning LR and momentum; Tensorflow MLP model on MNIST dataset; 
+* HW3: 
